@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpBnueMxCrmbkzufopM4o2cQS9twHi11NnrDitvasdzakSOXgJxIBmyVAXV3phtAO6Xr8MwmO0h/+TVxstcNow==",
+  "success": true,
+  "projectFilePath": "W:\\capgemini\\march 7\\csharp\\Capgemini.CSharp.Day2\\Capgemini.CSharp.Day2\\Capgemini.CSharp.Day2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hibu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

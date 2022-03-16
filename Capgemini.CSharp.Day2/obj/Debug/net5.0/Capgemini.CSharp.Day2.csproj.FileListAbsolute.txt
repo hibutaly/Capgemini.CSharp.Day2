@@ -1,0 +1,16 @@
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.exe
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.deps.json
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.runtimeconfig.json
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.runtimeconfig.dev.json
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.dll
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\ref\Capgemini.CSharp.Day2.dll
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.pdb
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.csproj.AssemblyReference.cache
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.GeneratedMSBuildEditorConfig.editorconfig
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.AssemblyInfoInputs.cache
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.AssemblyInfo.cs
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.csproj.CoreCompileInputs.cache
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.dll
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\ref\Capgemini.CSharp.Day2.dll
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.pdb
+W:\capgemini\march 7\csharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.genruntimeconfig.cache

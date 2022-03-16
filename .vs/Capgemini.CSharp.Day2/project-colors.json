@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b92ff1f-0df9-468b-b81a-4a677a6c28fb": {
+      "ProjectGuid": "0b92ff1f-0df9-468b-b81a-4a677a6c28fb",
+      "DisplayName": "Capgemini.CSharp.Day2",
+      "ColorIndex": 0
+    },
+    "e3d0351c-763a-4192-99b4-af1994645c1d": {
+      "ProjectGuid": "e3d0351c-763a-4192-99b4-af1994645c1d",
+      "DisplayName": "project2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
